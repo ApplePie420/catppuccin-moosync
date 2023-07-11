@@ -1,0 +1,15 @@
+{
+  "id": "0ea8d410-5ab1-11ed-a6b6-8bcbfdcfdb74",
+  "name": "Catppuccin Latte",
+  "author": "N3ttX",
+  "theme": {
+    "accent": "rgba(220, 138, 120, 1)",
+    "primary": "rgba(220, 224, 232, 1)",
+    "secondary": "#e6e9ef",
+    "tertiary": "rgba(239, 241, 245, 1)",
+    "textPrimary": "#4c4f69",
+    "textSecondary": "#5c5f77",
+    "textInverse": "rgba(204, 208, 218, 1)",
+    "divider": "rgba(204, 208, 218, 1)"
+  }
+}

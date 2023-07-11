@@ -1,0 +1,16 @@
+{
+  "id": "0a9612c0-1ff5-11ee-9b81-4d06c250e431",
+  "name": "Catppuccin Macchiato",
+  "author": "N3ttX",
+  "theme": {
+    "accent": "rgba(244, 219, 214, 1)",
+    "primary": "rgba(24, 25, 38, 1)",
+    "secondary": "rgba(30, 32, 48, 1)",
+    "tertiary": "rgba(36, 39, 58, 1)",
+    "textPrimary": "rgba(202, 211, 245, 1)",
+    "textSecondary": "rgba(184, 192, 224, 1)",
+    "textInverse": "rgba(24, 25, 38, 1)",
+    "divider": "rgba(110, 115, 141, 1)",
+    "customCSS": ""
+  }
+}

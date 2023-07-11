@@ -1,0 +1,16 @@
+{
+  "id": "894169a0-1ff8-11ee-990a-7336bcf6c70b",
+  "name": "Catppuccin Frappé",
+  "author": "N3ttX",
+  "theme": {
+    "accent": "rgba(242, 213, 207, 1)",
+    "primary": "rgba(35, 38, 52, 1)",
+    "secondary": "rgba(41, 44, 60, 1)",
+    "tertiary": "rgba(48, 52, 70, 1)",
+    "textPrimary": "rgba(198, 208, 245, 1)",
+    "textSecondary": "rgba(181, 191, 226, 1)",
+    "textInverse": "rgba(65, 69, 89, 1)",
+    "divider": "rgba(65, 69, 89, 1)",
+    "customCSS": ""
+  }
+}
