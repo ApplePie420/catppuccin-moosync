@@ -6,13 +6,13 @@
 </h3>
 
 <p align="center">
-	<a href="https://github.com/ApplePie420/catppuccin-moosync/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/template?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-	<a href="https://github.com/ApplePie420/catppuccin-moosync/issues"><img src="https://img.shields.io/github/issues/catppuccin/template?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-	<a href="https://github.com/ApplePie420/catppuccin-moosync/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/template?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+	<a href="https://github.com/ApplePie420/catppuccin-moosync/stargazers"><img src="https://img.shields.io/github/stars/ApplePie420/catppuccin-moosync?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+	<a href="https://github.com/ApplePie420/catppuccin-moosync/issues"><img src="https://img.shields.io/github/issues/ApplePie420/catppuccin-moosync?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+	<a href="https://github.com/ApplePie420/catppuccin-moosync/contributors"><img src="https://img.shields.io/github/contributors/ApplePie420/catppuccin-moosync?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 <p align="center">
-	<img src="./assets/moosync-catppuccin-preview.jpg"/>
+	<img src="./assets/moosync-catppuccin-preview.webp"/>
 </p>
 
 ## Previews
